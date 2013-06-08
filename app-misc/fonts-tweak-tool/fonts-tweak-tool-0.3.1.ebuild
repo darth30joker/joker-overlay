@@ -15,7 +15,7 @@ SLOT="0"
 KEYWORDS="x86 ~x86 amd64 ~amd64"
 IUSE=""
 
-DEPEND="media-libs/fontconfig"
+DEPEND="media-libs/libeasyfc"
 RDEPEND="${DEPEND}"
 
 src_prepare() {
